@@ -1,2 +1,2 @@
 # hello-world
-Thid is my first repositorie.
+This is my first repositorie.
